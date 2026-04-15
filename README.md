@@ -37,4 +37,4 @@
 | cat_infe_b | inferior behavior          |
 | cat_supe_n | superior nature            |
 | cat_supe_b | superior behavior          |
-| cat_toxic! | toxic implication          |
+| cat_toxic! | toxic                      |
